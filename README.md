@@ -1,6 +1,6 @@
 # Proyecto-Turismo 🏖️🗺️🍹✈️
 
-# Bienvenidos a CAC-Turismo 🌍✈️
+# **Bienvenidos a CAC-Turismo** 🌍✈️
 
 ## Nuestra página web tiene como objetivo principal conectar a los viajeros con experiencias únicas y memorables en destinos alrededor de nuestro hermoso pais. 🗺️🇦🇷
 
@@ -14,6 +14,7 @@
 ### - Proporcionar información detallada sobre destinos, atracciones y actividades.
 ### - Promover la cultura local y la sostenibilidad en el turismo.
 
+---
 
 ## _Características Destacadas_ 📋
 ### - Descubre Destinos 🌴🏰
@@ -41,8 +42,9 @@
 
 ### En CAC-Turismo, nos dedicamos apasionadamente a hacer que su viaje a Argentina sea una experiencia inolvidable. Desde las majestuosas cataratas de Iguazú 🌊 hasta los picos nevados de la Patagonia 🏔️, pasando por la vibrante cultura de Buenos Aires 🌆, tenemos todo lo que necesitan para planificar su próximo destino de ensueño.
 
+---
 
-## ¿Por qué elegir CAC-Turismo?
+## *¿Por qué elegir CAC-Turismo?*
 ### 🌟 Experiencia Local: Conocemos Argentina como la palma de nuestra mano. Nuestros expertos locales están aquí para compartir los secretos mejor guardados y los lugares imperdibles.
 
 ### 🗺️ Itinerarios Personalizados: Ya sea que prefieran aventurarse en la naturaleza, descubrir la historia y el arte, o simplemente relajarse en playas paradisíacas, diseñamos itinerarios a medida para satisfacer todos los gustos y preferencias.
